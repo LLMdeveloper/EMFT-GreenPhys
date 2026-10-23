@@ -1,0 +1,2402 @@
+[
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pk fert.",
+    "output": "The current behavior 'purchase pk fert' generates approximately 1.76 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0011155338056048115
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase millt.",
+    "output": "The current behavior 'purchase millt' generates approximately 0.54 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00034297984350534645
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chics.",
+    "output": "The current behavior 'purchase chics' generates approximately 1.08 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.000682613930462687
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase nutss.",
+    "output": "The current behavior 'purchase nutss' generates approximately 6.73 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004273894593777994
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase gingr.",
+    "output": "The current behavior 'purchase gingr' generates approximately 1.30 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0008241957162966225
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase aluo.",
+    "output": "The current behavior 'purchase aluo' generates approximately 0.11 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 6.969364908688815e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase botl gls.",
+    "output": "The current behavior 'purchase botl gls' generates approximately 4.45 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002825229114425656
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase sesad.",
+    "output": "The current behavior 'purchase sesad' generates approximately 8.34 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.005289557359705908
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase vegleg nes.",
+    "output": "The current behavior 'purchase vegleg nes' generates approximately 3.35 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0021247042421804786
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour buck for baking.",
+    "output": "The current behavior 'buy flour buck for baking' generates approximately 16.54 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.010496250249794847
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase ofru fresh.",
+    "output": "The current behavior 'purchase ofru fresh' generates approximately 1.42 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0009025072094574312
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil sunf.",
+    "output": "The current behavior 'purchase oil sunf' generates approximately 3.68 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0023381417969144695
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase biod.",
+    "output": "The current behavior 'purchase biod' generates approximately 4.28 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0027166034993917057
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase citr nes.",
+    "output": "The current behavior 'purchase citr nes' generates approximately 3.58 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002272305630972127
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase moto.",
+    "output": "The current behavior 'purchase moto' generates approximately 36.09 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.022902999206015504
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase orans.",
+    "output": "The current behavior 'purchase orans' generates approximately 0.12 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 7.360332987756265e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase vetcs.",
+    "output": "The current behavior 'purchase vetcs' generates approximately 0.51 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0003258255824518351
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase bev dstl.",
+    "output": "The current behavior 'purchase bev dstl' generates approximately 2.87 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0018222606961760777
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase barlt.",
+    "output": "The current behavior 'purchase barlt' generates approximately 1.38 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0008778261768303636
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase germt.",
+    "output": "The current behavior 'purchase germt' generates approximately 0.21 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00013019288722988424
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase sorgm.",
+    "output": "The current behavior 'purchase sorgm' generates approximately 2.40 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001521869274742334
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase lents.",
+    "output": "The current behavior 'purchase lents' generates approximately 1.75 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0011109898896125515
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase barly.",
+    "output": "The current behavior 'purchase barly' generates approximately 1.82 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001156601615270927
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase blues.",
+    "output": "The current behavior 'purchase blues' generates approximately 5.41 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0034329882019621233
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase raped.",
+    "output": "The current behavior 'purchase raped' generates approximately 3.45 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002187656254980428
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase skim sed.",
+    "output": "The current behavior 'purchase skim sed' generates approximately 3.34 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0021186093680377587
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pined.",
+    "output": "The current behavior 'purchase pined' generates approximately 3.86 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0024497426430025665
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase hemp.",
+    "output": "The current behavior 'purchase hemp' generates approximately 1.95 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0012360328986517372
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fat ac.",
+    "output": "The current behavior 'purchase fat ac' generates approximately 4.23 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002683778806344022
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil maiz.",
+    "output": "The current behavior 'purchase oil maiz' generates approximately 1.24 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0007883900534610119
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase yoght add.",
+    "output": "The current behavior 'purchase yoght add' generates approximately 12.70 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.00805626933713033
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pists.",
+    "output": "The current behavior 'purchase pists' generates approximately 8.79 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.005578793867692662
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase spinh.",
+    "output": "The current behavior 'purchase spinh' generates approximately 2.51 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0015919924496465797
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase sorgm.",
+    "output": "The current behavior 'purchase sorgm' generates approximately 1.67 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0010596772753058686
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase mush dry.",
+    "output": "The current behavior 'purchase mush dry' generates approximately 12.04 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.0076382271381664904
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase aluo.",
+    "output": "The current behavior 'purchase aluo' generates approximately 0.07 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 4.2501027031739984e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase grou prep.",
+    "output": "The current behavior 'purchase grou prep' generates approximately 8.85 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.00561819188490828
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase rice husk.",
+    "output": "The current behavior 'purchase rice husk' generates approximately 6.46 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004097282140757562
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour frui for baking.",
+    "output": "The current behavior 'buy flour frui for baking' generates approximately 5.03 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0031907697319690192
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase ofru cit.",
+    "output": "The current behavior 'purchase ofru cit' generates approximately 0.69 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00043684870393485186
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat duck.",
+    "output": "The current behavior 'purchase and consume meat duck' generates approximately 12.95 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.008218991471581585
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil sesa.",
+    "output": "The current behavior 'purchase oil sesa' generates approximately 9.45 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.005994259535421545
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase figsd.",
+    "output": "The current behavior 'purchase figsd' generates approximately 1.92 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0012155258475746381
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fruprep.",
+    "output": "The current behavior 'purchase fruprep' generates approximately 2.17 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001377304925362674
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour mill for baking.",
+    "output": "The current behavior 'buy flour mill for baking' generates approximately 4.46 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0028296266992110003
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chocs.",
+    "output": "The current behavior 'purchase chocs' generates approximately 3.52 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0022326540787153265
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase honel.",
+    "output": "The current behavior 'purchase honel' generates approximately 5.33 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.003379548086495369
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase mangp.",
+    "output": "The current behavior 'purchase mangp' generates approximately 0.55 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0003498152945380538
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chocs.",
+    "output": "The current behavior 'purchase chocs' generates approximately 4.39 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0027850818429545334
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase sugat.",
+    "output": "The current behavior 'purchase sugat' generates approximately 0.10 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 6.187415284680749e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase starch cass.",
+    "output": "The current behavior 'purchase starch cass' generates approximately 1.59 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0010109606260528443
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat pige.",
+    "output": "The current behavior 'purchase and consume meat pige' generates approximately 1.29 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0008182129863517809
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pasty.",
+    "output": "The current behavior 'purchase pasty' generates approximately 3.81 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.00241822064080967
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fat goat.",
+    "output": "The current behavior 'purchase fat goat' generates approximately 1.96 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001242607739983175
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase sesad.",
+    "output": "The current behavior 'purchase sesad' generates approximately 7.20 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004569896373958935
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice pine con.",
+    "output": "The current behavior 'purchase juice pine con' generates approximately 4.74 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0030064380153833454
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase parw.",
+    "output": "The current behavior 'purchase parw' generates approximately 1.44 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0009114345897884384
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase sheet pa.",
+    "output": "The current behavior 'purchase sheet pa' generates approximately 6.22 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0039478900279151475
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat buff.",
+    "output": "The current behavior 'purchase and consume meat buff' generates approximately 2.91 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0018497300468745862
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chee buff.",
+    "output": "The current behavior 'purchase chee buff' generates approximately 2.39 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0015174675174400593
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat camel.",
+    "output": "The current behavior 'purchase and consume meat camel' generates approximately 21.72 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.013784070444543871
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase text.",
+    "output": "The current behavior 'purchase text' generates approximately 12.19 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.007735775501924178
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat beef.",
+    "output": "The current behavior 'purchase and consume meat beef' generates approximately 45.34 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.028771967687143143
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice frui.",
+    "output": "The current behavior 'purchase juice frui' generates approximately 3.50 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0022191288253617003
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase glas 01 res.",
+    "output": "The current behavior 'purchase glas 01 res' generates approximately 2.67 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0016936694875580713
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase rasps.",
+    "output": "The current behavior 'purchase rasps' generates approximately 1.03 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0006505065260863359
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fat ac.",
+    "output": "The current behavior 'purchase fat ac' generates approximately 4.56 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0028918199312530325
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase sweed.",
+    "output": "The current behavior 'purchase sweed' generates approximately 5.60 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0035543293298287253
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pines.",
+    "output": "The current behavior 'purchase pines' generates approximately 0.93 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0005885212981888282
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cabbs.",
+    "output": "The current behavior 'purchase cabbs' generates approximately 1.13 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0007180631603293385
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour barl for baking.",
+    "output": "The current behavior 'buy flour barl for baking' generates approximately 1.99 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0012629159519590963
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pork ham.",
+    "output": "The current behavior 'purchase pork ham' generates approximately 10.85 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.00688431328656852
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase wheat.",
+    "output": "The current behavior 'purchase wheat' generates approximately 0.62 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0003906447171280483
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase ryee.",
+    "output": "The current behavior 'purchase ryee' generates approximately 3.22 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002043935547694882
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase vegleg nes.",
+    "output": "The current behavior 'purchase vegleg nes' generates approximately 3.59 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0022797130044811893
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase barld.",
+    "output": "The current behavior 'purchase barld' generates approximately 3.11 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0019717495017297646
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase mach.",
+    "output": "The current behavior 'purchase mach' generates approximately 20.28 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.012870057044285003
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase ofru cit.",
+    "output": "The current behavior 'purchase ofru cit' generates approximately 0.20 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00012879108792933022
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase wood.",
+    "output": "The current behavior 'purchase wood' generates approximately 0.65 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0004136967814280494
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase wood.",
+    "output": "The current behavior 'purchase wood' generates approximately 1.27 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0008029893510139931
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil coco.",
+    "output": "The current behavior 'purchase oil coco' generates approximately 2.35 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0014927736284577864
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pigs.",
+    "output": "The current behavior 'purchase pigs' generates approximately 8.92 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0056606518632372985
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase n solution.",
+    "output": "The current behavior 'purchase n solution' generates approximately 8.46 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0053694465557515975
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase anth.",
+    "output": "The current behavior 'purchase anth' generates approximately 0.12 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 7.37978985454942e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase forgrass horses.",
+    "output": "The current behavior 'purchase forgrass horses' generates approximately 0.05 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 3.217825047998278e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil lins.",
+    "output": "The current behavior 'purchase oil lins' generates approximately 13.67 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.008674477191024687
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase walnl.",
+    "output": "The current behavior 'purchase walnl' generates approximately 3.05 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0019371932022259426
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase coco pas.",
+    "output": "The current behavior 'purchase coco pas' generates approximately 3.70 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002347600418570181
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase walnd.",
+    "output": "The current behavior 'purchase walnd' generates approximately 5.84 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0037055577187502147
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase crans.",
+    "output": "The current behavior 'purchase crans' generates approximately 2.74 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001737906011680653
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pk fert.",
+    "output": "The current behavior 'purchase pk fert' generates approximately 1.73 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0010977332178586437
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase perss.",
+    "output": "The current behavior 'purchase perss' generates approximately 0.38 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00023903287852046219
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase beer barl.",
+    "output": "The current behavior 'purchase beer barl' generates approximately 1.50 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0009516627439442488
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pulp.",
+    "output": "The current behavior 'purchase pulp' generates approximately 2.69 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001709062423887163
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase barly.",
+    "output": "The current behavior 'purchase barly' generates approximately 0.47 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00029569072130292774
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase ofma.",
+    "output": "The current behavior 'purchase ofma' generates approximately 20.42 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.012955702493580202
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase yams.",
+    "output": "The current behavior 'purchase yams' generates approximately 1.09 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0006917162034221994
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cocoa.",
+    "output": "The current behavior 'purchase cocoa' generates approximately 3.33 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002112657934508229
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cokc.",
+    "output": "The current behavior 'purchase cokc' generates approximately 0.07 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 4.291569431781169e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase almod.",
+    "output": "The current behavior 'purchase almod' generates approximately 3.72 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002363411086210887
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase forgrass cattle.",
+    "output": "The current behavior 'purchase forgrass cattle' generates approximately 0.07 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 4.3036929439621396e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase forgrass rabbits.",
+    "output": "The current behavior 'purchase forgrass rabbits' generates approximately 0.02 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 1.4940359690964965e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil grou.",
+    "output": "The current behavior 'purchase oil grou' generates approximately 10.69 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.0067861405064645235
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase vegleg nes.",
+    "output": "The current behavior 'purchase vegleg nes' generates approximately 3.01 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001907833576218163
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fat ac.",
+    "output": "The current behavior 'purchase fat ac' generates approximately 4.63 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0029411816879089535
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase flou oil nes.",
+    "output": "The current behavior 'purchase flou oil nes' generates approximately 9.80 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.006216122476695686
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat goat.",
+    "output": "The current behavior 'purchase and consume meat goat' generates approximately 41.22 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.026156994881039168
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour whea for baking.",
+    "output": "The current behavior 'buy flour whea for baking' generates approximately 3.84 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0024343214995401507
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase buckt.",
+    "output": "The current behavior 'purchase buckt' generates approximately 6.92 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004391653185802574
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice grapfrt.",
+    "output": "The current behavior 'purchase juice grapfrt' generates approximately 3.58 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0022696154086137956
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase tapis.",
+    "output": "The current behavior 'purchase tapis' generates approximately 3.87 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0024570709362359677
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase k2ofert.",
+    "output": "The current behavior 'purchase k2ofert' generates approximately 5.33 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0033813086721197665
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase f aqua.",
+    "output": "The current behavior 'purchase f aqua' generates approximately 7.90 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.005015783609425579
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase nuts.",
+    "output": "The current behavior 'purchase nuts' generates approximately 6.06 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.003842544519426546
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase ricey.",
+    "output": "The current behavior 'purchase ricey' generates approximately 0.87 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0005501687978915977
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase starch whea.",
+    "output": "The current behavior 'purchase starch whea' generates approximately 0.79 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00050097063211294
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink goamilk.",
+    "output": "The current behavior 'buy and drink goamilk' generates approximately 7.06 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004477666830335606
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase forgrass pigs.",
+    "output": "The current behavior 'purchase forgrass pigs' generates approximately 0.01 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 7.024200565061479e-06
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chmf.",
+    "output": "The current behavior 'purchase chmf' generates approximately 0.08 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 4.774541433005517e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase lztp.",
+    "output": "The current behavior 'purchase lztp' generates approximately 19.45 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.012341088961149434
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat beef.",
+    "output": "The current behavior 'purchase and consume meat beef' generates approximately 43.33 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.027493948419961355
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase mgsl.",
+    "output": "The current behavior 'purchase mgsl' generates approximately 1.63 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0010337662890515205
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase clovs.",
+    "output": "The current behavior 'purchase clovs' generates approximately 6.89 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004373922642426572
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase jute.",
+    "output": "The current behavior 'purchase jute' generates approximately 2.13 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0013486463390578673
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fat cow.",
+    "output": "The current behavior 'purchase fat cow' generates approximately 36.17 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.022950479074532397
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil rice.",
+    "output": "The current behavior 'purchase oil rice' generates approximately 3.13 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0019885435652080034
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat turk.",
+    "output": "The current behavior 'purchase and consume meat turk' generates approximately 6.41 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004070493405230734
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase offas buff.",
+    "output": "The current behavior 'purchase offas buff' generates approximately 1.26 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.000796818168458666
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase starch rice.",
+    "output": "The current behavior 'purchase starch rice' generates approximately 3.10 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0019676735123922502
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase vania.",
+    "output": "The current behavior 'purchase vania' generates approximately 69.50 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.04410304327982691
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase plums.",
+    "output": "The current behavior 'purchase plums' generates approximately 0.35 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00022175151561576134
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase wool asy.",
+    "output": "The current behavior 'purchase wool asy' generates approximately 1.19 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0007538640304690442
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fat cam.",
+    "output": "The current behavior 'purchase fat cam' generates approximately 22.58 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.014330701420716995
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink forgrass cowmilk.",
+    "output": "The current behavior 'buy and drink forgrass cowmilk' generates approximately 0.04 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 2.4439285618870187e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice vege.",
+    "output": "The current behavior 'purchase juice vege' generates approximately 4.08 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0025919794211548717
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat duck.",
+    "output": "The current behavior 'purchase and consume meat duck' generates approximately 10.22 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.006482546659249468
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chee cow wh.",
+    "output": "The current behavior 'purchase chee cow wh' generates approximately 20.15 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.012787604191508666
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase botl pet.",
+    "output": "The current behavior 'purchase botl pet' generates approximately 8.42 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.005341183037985771
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour must for baking.",
+    "output": "The current behavior 'buy flour must for baking' generates approximately 7.28 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004620164210637631
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil rape.",
+    "output": "The current behavior 'purchase oil rape' generates approximately 2.60 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0016471339132701805
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase napt.",
+    "output": "The current behavior 'purchase napt' generates approximately 3.30 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002092244773248189
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour trit for baking.",
+    "output": "The current behavior 'buy flour trit for baking' generates approximately 4.26 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0027001950143751598
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat goos.",
+    "output": "The current behavior 'purchase and consume meat goos' generates approximately 0.21 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00013049148605042148
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil tung.",
+    "output": "The current behavior 'purchase oil tung' generates approximately 1.80 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0011394334508620157
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase jar gls.",
+    "output": "The current behavior 'purchase jar gls' generates approximately 4.93 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0031290186285197704
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase raiss.",
+    "output": "The current behavior 'purchase raiss' generates approximately 4.86 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0030810452799817757
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink catmilk.",
+    "output": "The current behavior 'buy and drink catmilk' generates approximately 8.34 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0052897227311625074
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase eggpl.",
+    "output": "The current behavior 'purchase eggpl' generates approximately 0.12 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 7.362703996768309e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase forgrass sheep.",
+    "output": "The current behavior 'purchase forgrass sheep' generates approximately 0.03 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 1.811824420399158e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fruhom.",
+    "output": "The current behavior 'purchase fruhom' generates approximately 9.26 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.005874227936941099
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase foil.",
+    "output": "The current behavior 'purchase foil' generates approximately 1.53 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0009680282655276723
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase avocs.",
+    "output": "The current behavior 'purchase avocs' generates approximately 1.29 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0008169979736247935
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase berrs.",
+    "output": "The current behavior 'purchase berrs' generates approximately 2.02 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0012794411712467439
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase bread.",
+    "output": "The current behavior 'purchase bread' generates approximately 4.32 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002738369410985222
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour maiz for baking.",
+    "output": "The current behavior 'buy flour maiz for baking' generates approximately 3.02 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0019138603679976292
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase alum 01 res.",
+    "output": "The current behavior 'purchase alum 01 res' generates approximately 20.65 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.013106012701151793
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice appl con.",
+    "output": "The current behavior 'purchase juice appl con' generates approximately 3.61 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002293765118372111
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice toma.",
+    "output": "The current behavior 'purchase juice toma' generates approximately 3.54 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0022490110414100707
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase roots.",
+    "output": "The current behavior 'purchase roots' generates approximately 2.48 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0015726984132451833
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase plans.",
+    "output": "The current behavior 'purchase plans' generates approximately 0.28 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00017490343762893097
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase n urea.",
+    "output": "The current behavior 'purchase n urea' generates approximately 0.40 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0002519411107162585
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cokc.",
+    "output": "The current behavior 'purchase cokc' generates approximately 0.07 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 4.2995509949449595e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fat nes.",
+    "output": "The current behavior 'purchase fat nes' generates approximately 2.77 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0017583216452800828
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase sesad.",
+    "output": "The current behavior 'purchase sesad' generates approximately 3.07 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0019471411134905595
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour pota for baking.",
+    "output": "The current behavior 'buy flour pota for baking' generates approximately 3.53 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0022396740401321347
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase spics.",
+    "output": "The current behavior 'purchase spics' generates approximately 9.63 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.006113516430605745
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase alc food.",
+    "output": "The current behavior 'purchase alc food' generates approximately 5.71 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0036223697599597478
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase lacte.",
+    "output": "The current behavior 'purchase lacte' generates approximately 2.55 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0016192909102919091
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase tomas.",
+    "output": "The current behavior 'purchase tomas' generates approximately 0.68 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00042942331915411406
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cocon.",
+    "output": "The current behavior 'purchase cocon' generates approximately 0.17 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00011001645291067851
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour whea for baking.",
+    "output": "The current behavior 'buy flour whea for baking' generates approximately 3.08 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0019555080186065728
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase jute.",
+    "output": "The current behavior 'purchase jute' generates approximately 2.21 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0014039743653103292
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase vegew.",
+    "output": "The current behavior 'purchase vegew' generates approximately 6.02 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0038171100954368315
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase beer barl.",
+    "output": "The current behavior 'purchase beer barl' generates approximately 4.95 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.003141326062190858
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fat nes.",
+    "output": "The current behavior 'purchase fat nes' generates approximately 2.55 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0016172642315890767
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase transfer.",
+    "output": "The current behavior 'purchase transfer' generates approximately 1.45 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0009214371432437942
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase elma.",
+    "output": "The current behavior 'purchase elma' generates approximately 3.73 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0023644535040112337
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase botl gls.",
+    "output": "The current behavior 'purchase botl gls' generates approximately 2.80 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0017754696952789186
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink milk skim dried.",
+    "output": "The current behavior 'buy and drink milk skim dried' generates approximately 23.10 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.014661313616395418
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase bitu.",
+    "output": "The current behavior 'purchase bitu' generates approximately 1.04 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0006572985263253835
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase lubr.",
+    "output": "The current behavior 'purchase lubr' generates approximately 1.55 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0009836463687071958
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase gluce.",
+    "output": "The current behavior 'purchase gluce' generates approximately 2.20 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0013947770685955496
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase poppd.",
+    "output": "The current behavior 'purchase poppd' generates approximately 5.59 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0035456999511112226
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fat live.",
+    "output": "The current behavior 'purchase fat live' generates approximately 8.27 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.005245397106238184
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat shee.",
+    "output": "The current behavior 'purchase and consume meat shee' generates approximately 20.55 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.013038843804034986
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase tapia.",
+    "output": "The current behavior 'purchase tapia' generates approximately 1.43 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0009099399401829285
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chers.",
+    "output": "The current behavior 'purchase chers' generates approximately 1.88 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0011937658674380724
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour mixe for baking.",
+    "output": "The current behavior 'buy flour mixe for baking' generates approximately 5.84 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.003705400045495971
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat pig boneless.",
+    "output": "The current behavior 'purchase and consume meat pig boneless' generates approximately 13.77 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.008739780950672958
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour maiz for baking.",
+    "output": "The current behavior 'buy flour maiz for baking' generates approximately 3.08 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001955395703451757
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase turkeys.",
+    "output": "The current behavior 'purchase turkeys' generates approximately 6.92 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0043902179837753885
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink forgrass cowmilk.",
+    "output": "The current behavior 'buy and drink forgrass cowmilk' generates approximately 0.03 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 2.176372976669651e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase ratv.",
+    "output": "The current behavior 'purchase ratv' generates approximately 2.63 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001669506496971292
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice toma.",
+    "output": "The current behavior 'purchase juice toma' generates approximately 3.33 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0021127626660665654
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink forgrass cowmilk.",
+    "output": "The current behavior 'buy and drink forgrass cowmilk' generates approximately 0.04 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 2.6164963283310877e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink catmilk.",
+    "output": "The current behavior 'buy and drink catmilk' generates approximately 2.38 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.00150987625537579
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chiln.",
+    "output": "The current behavior 'purchase chiln' generates approximately 0.31 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0001989516322180774
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pined.",
+    "output": "The current behavior 'purchase pined' generates approximately 6.13 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0038907612449652833
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase coff sub.",
+    "output": "The current behavior 'purchase coff sub' generates approximately 5.56 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.00352949793029413
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase stras.",
+    "output": "The current behavior 'purchase stras' generates approximately 2.34 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0014856520137863246
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase coffn.",
+    "output": "The current behavior 'purchase coffn' generates approximately 3.72 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0023615297661514815
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pork ham.",
+    "output": "The current behavior 'purchase pork ham' generates approximately 19.56 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.012411903351063206
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase offas goat.",
+    "output": "The current behavior 'purchase offas goat' generates approximately 23.38 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.014836322113154962
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase lard.",
+    "output": "The current behavior 'purchase lard' generates approximately 10.42 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.0066093199157196275
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour puls for baking.",
+    "output": "The current behavior 'buy flour puls for baking' generates approximately 8.86 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0056213562239713
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase wafes.",
+    "output": "The current behavior 'purchase wafes' generates approximately 2.33 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0014790632475236297
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fat live.",
+    "output": "The current behavior 'purchase fat live' generates approximately 7.89 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.005009361565014304
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase starch cass.",
+    "output": "The current behavior 'purchase starch cass' generates approximately 1.75 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001110041847403341
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase wood.",
+    "output": "The current behavior 'purchase wood' generates approximately 1.00 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0006373774314235996
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase plans.",
+    "output": "The current behavior 'purchase plans' generates approximately 0.66 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00041687489991220885
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase maltt.",
+    "output": "The current behavior 'purchase maltt' generates approximately 4.51 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0028609178148572053
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink forgrass goamilk.",
+    "output": "The current behavior 'buy and drink forgrass goamilk' generates approximately 0.05 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 3.224115336836361e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cer brkf.",
+    "output": "The current behavior 'purchase cer brkf' generates approximately 6.54 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0041509081249355385
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase n ammsol.",
+    "output": "The current behavior 'purchase n ammsol' generates approximately 2.89 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0018349719411772782
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase tomae.",
+    "output": "The current behavior 'purchase tomae' generates approximately 5.98 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0037950543799132584
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice appl.",
+    "output": "The current behavior 'purchase juice appl' generates approximately 2.57 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.00162971722506673
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase lents.",
+    "output": "The current behavior 'purchase lents' generates approximately 3.50 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0022211597906796722
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chickens.",
+    "output": "The current behavior 'purchase chickens' generates approximately 7.13 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004524076851601555
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase germe.",
+    "output": "The current behavior 'purchase germe' generates approximately 0.29 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0001862965864864562
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cucus.",
+    "output": "The current behavior 'purchase cucus' generates approximately 0.14 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 9.005109025175162e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink goamilk.",
+    "output": "The current behavior 'buy and drink goamilk' generates approximately 4.10 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002603838210260873
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice pine.",
+    "output": "The current behavior 'purchase juice pine' generates approximately 5.18 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.003288460171159266
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase teaa.",
+    "output": "The current behavior 'purchase teaa' generates approximately 6.50 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004125548530841094
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase lardl.",
+    "output": "The current behavior 'purchase lardl' generates approximately 8.75 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.00554949994099472
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink shemilk.",
+    "output": "The current behavior 'buy and drink shemilk' generates approximately 2.30 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0014568856360858938
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pork saus.",
+    "output": "The current behavior 'purchase pork saus' generates approximately 9.85 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.006251359880762395
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase crans.",
+    "output": "The current behavior 'purchase crans' generates approximately 3.33 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002113478311926754
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil pal ker.",
+    "output": "The current behavior 'purchase oil pal ker' generates approximately 2.65 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0016814422143515842
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase doil.",
+    "output": "The current behavior 'purchase doil' generates approximately 1.26 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0007985589184457529
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase turkeys.",
+    "output": "The current behavior 'purchase turkeys' generates approximately 4.54 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0028780019359721963
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase vegeh.",
+    "output": "The current behavior 'purchase vegeh' generates approximately 6.43 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004081364628203316
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase n urea.",
+    "output": "The current behavior 'purchase n urea' generates approximately 1.88 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001194852577363589
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice frui.",
+    "output": "The current behavior 'purchase juice frui' generates approximately 1.87 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0011849219243732347
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat goat.",
+    "output": "The current behavior 'purchase and consume meat goat' generates approximately 6.62 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004200795327196737
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase raped.",
+    "output": "The current behavior 'purchase raped' generates approximately 3.31 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.00210193590858751
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase coffe roas.",
+    "output": "The current behavior 'purchase coffe roas' generates approximately 5.35 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0033944999757532447
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase haze shld.",
+    "output": "The current behavior 'purchase haze shld' generates approximately 9.88 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.006272679076926283
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat pig boneless.",
+    "output": "The current behavior 'purchase and consume meat pig boneless' generates approximately 19.85 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.01259716625841565
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase ovege fresh.",
+    "output": "The current behavior 'purchase ovege fresh' generates approximately 0.20 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00012866288723243017
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase avocs.",
+    "output": "The current behavior 'purchase avocs' generates approximately 1.70 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.00107717980826039
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase grou shld.",
+    "output": "The current behavior 'purchase grou shld' generates approximately 6.50 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004124402590174618
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase frui nes.",
+    "output": "The current behavior 'purchase frui nes' generates approximately 3.62 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0022999815668852635
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase macai.",
+    "output": "The current behavior 'purchase macai' generates approximately 5.46 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0034661196214557147
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase manc.",
+    "output": "The current behavior 'purchase manc' generates approximately 0.06 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 3.5632322970774216e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase vegew.",
+    "output": "The current behavior 'purchase vegew' generates approximately 6.37 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004040352440906437
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice frui.",
+    "output": "The current behavior 'purchase juice frui' generates approximately 3.95 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0025043667307721954
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink shemilk.",
+    "output": "The current behavior 'buy and drink shemilk' generates approximately 1.14 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0007262659890478457
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase gase.",
+    "output": "The current behavior 'purchase gase' generates approximately 0.39 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00024438300928481227
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase biod.",
+    "output": "The current behavior 'purchase biod' generates approximately 4.80 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0030446793350350923
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chmf.",
+    "output": "The current behavior 'purchase chmf' generates approximately 0.00 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 6.541627901222899e-07
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase orans.",
+    "output": "The current behavior 'purchase orans' generates approximately 0.64 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00040650169848827566
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase orans.",
+    "output": "The current behavior 'purchase orans' generates approximately 0.31 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00019985813658719392
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chocs.",
+    "output": "The current behavior 'purchase chocs' generates approximately 3.51 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0022250830582952316
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat goos.",
+    "output": "The current behavior 'purchase and consume meat goos' generates approximately 1.04 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0006589249309964176
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour frui for baking.",
+    "output": "The current behavior 'buy flour frui for baking' generates approximately 9.73 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.006172082257653323
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fonio.",
+    "output": "The current behavior 'purchase fonio' generates approximately 3.42 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0021725896876306334
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase avocs.",
+    "output": "The current behavior 'purchase avocs' generates approximately 1.44 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0009117659135364026
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase starch whea.",
+    "output": "The current behavior 'purchase starch whea' generates approximately 1.99 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001259666501026103
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chily.",
+    "output": "The current behavior 'purchase chily' generates approximately 1.20 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0007600671372336656
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cokc.",
+    "output": "The current behavior 'purchase cokc' generates approximately 0.06 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 3.570717843978104e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase iron.",
+    "output": "The current behavior 'purchase iron' generates approximately 0.04 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 2.4233094988593536e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase forgrass cattle.",
+    "output": "The current behavior 'purchase forgrass cattle' generates approximately 0.00 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 8.299778499771005e-07
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase ratv.",
+    "output": "The current behavior 'purchase ratv' generates approximately 3.94 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002498331879712059
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase castd.",
+    "output": "The current behavior 'purchase castd' generates approximately 1.70 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001079214799633297
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase macai.",
+    "output": "The current behavior 'purchase macai' generates approximately 5.48 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0034782321119908336
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase frui nes.",
+    "output": "The current behavior 'purchase frui nes' generates approximately 8.06 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0051120147946481015
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase figss.",
+    "output": "The current behavior 'purchase figss' generates approximately 3.06 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0019434076556068976
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase ryee.",
+    "output": "The current behavior 'purchase ryee' generates approximately 5.02 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.003186676171570772
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase barlt.",
+    "output": "The current behavior 'purchase barlt' generates approximately 2.01 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0012778006906134527
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drive a carrs.",
+    "output": "The current behavior 'buy and drive a carrs' generates approximately 1.94 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001231363517337049
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink milk skim buff.",
+    "output": "The current behavior 'buy and drink milk skim buff' generates approximately 12.32 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.007818383510813737
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice oran.",
+    "output": "The current behavior 'purchase juice oran' generates approximately 2.76 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0017489225746398923
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase potan.",
+    "output": "The current behavior 'purchase potan' generates approximately 2.29 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0014541420331533386
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cocoa.",
+    "output": "The current behavior 'purchase cocoa' generates approximately 4.28 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0027177414872607128
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase tomae.",
+    "output": "The current behavior 'purchase tomae' generates approximately 4.87 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0030916083251513104
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cer prep.",
+    "output": "The current behavior 'purchase cer prep' generates approximately 3.35 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002128575338992813
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cashl.",
+    "output": "The current behavior 'purchase cashl' generates approximately 1.51 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0009600810448460078
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oatss.",
+    "output": "The current behavior 'purchase oatss' generates approximately 2.47 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001567357049386158
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase lztp.",
+    "output": "The current behavior 'purchase lztp' generates approximately 8.90 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.005647142066764242
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase mangp.",
+    "output": "The current behavior 'purchase mangp' generates approximately 0.65 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0004103115387770433
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour maiz for baking.",
+    "output": "The current behavior 'buy flour maiz for baking' generates approximately 2.39 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0015157195006408417
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour pota for baking.",
+    "output": "The current behavior 'buy flour pota for baking' generates approximately 3.47 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0022013419122668475
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink milk skim buff.",
+    "output": "The current behavior 'buy and drink milk skim buff' generates approximately 10.94 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.0069411436045316195
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice toma.",
+    "output": "The current behavior 'purchase juice toma' generates approximately 6.61 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004192097151066693
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice grapes.",
+    "output": "The current behavior 'purchase juice grapes' generates approximately 6.91 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004385005126990434
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase rgas.",
+    "output": "The current behavior 'purchase rgas' generates approximately 1.86 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0011791093223461491
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase skim sed.",
+    "output": "The current behavior 'purchase skim sed' generates approximately 3.99 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0025341486994868356
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cksoyb.",
+    "output": "The current behavior 'purchase cksoyb' generates approximately 2.37 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0015065903347080776
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil rape.",
+    "output": "The current behavior 'purchase oil rape' generates approximately 6.18 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0039213400775390045
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour must for baking.",
+    "output": "The current behavior 'buy flour must for baking' generates approximately 7.59 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004817635957989964
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fat sheep.",
+    "output": "The current behavior 'purchase fat sheep' generates approximately 17.76 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.011268592956902706
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase plums.",
+    "output": "The current behavior 'purchase plums' generates approximately 0.00 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 5.840310377360532e-07
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase sugar.",
+    "output": "The current behavior 'purchase sugar' generates approximately 6.59 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.00418385417754696
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase onioy.",
+    "output": "The current behavior 'purchase onioy' generates approximately 1.94 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0012291529286300685
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour puls for baking.",
+    "output": "The current behavior 'buy flour puls for baking' generates approximately 20.66 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.013112314076172924
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chest.",
+    "output": "The current behavior 'purchase chest' generates approximately 3.11 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001974405056000904
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pigs.",
+    "output": "The current behavior 'purchase pigs' generates approximately 9.99 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0063364249172276335
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase appls.",
+    "output": "The current behavior 'purchase appls' generates approximately 0.88 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0005605472060775169
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase walnl.",
+    "output": "The current behavior 'purchase walnl' generates approximately 2.27 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0014434250045818756
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase perss.",
+    "output": "The current behavior 'purchase perss' generates approximately 0.52 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0003325741616592143
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat beef.",
+    "output": "The current behavior 'purchase and consume meat beef' generates approximately 41.17 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.026124345096738427
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink catmilk.",
+    "output": "The current behavior 'buy and drink catmilk' generates approximately 2.91 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0018445052416338023
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase forgrass horses.",
+    "output": "The current behavior 'purchase forgrass horses' generates approximately 0.04 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 2.4606445967857124e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour mixe for baking.",
+    "output": "The current behavior 'buy flour mixe for baking' generates approximately 2.83 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0017931873759538758
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat goat.",
+    "output": "The current behavior 'purchase and consume meat goat' generates approximately 14.91 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.009460888571113045
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fabm 01 res.",
+    "output": "The current behavior 'purchase fabm 01 res' generates approximately 0.44 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0002768283858191184
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pasty.",
+    "output": "The current behavior 'purchase pasty' generates approximately 3.65 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002313311355792138
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil coco.",
+    "output": "The current behavior 'purchase oil coco' generates approximately 3.41 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002164557870170856
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase vania.",
+    "output": "The current behavior 'purchase vania' generates approximately 64.20 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.04074218245152289
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase sdcl.",
+    "output": "The current behavior 'purchase sdcl' generates approximately 0.01 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 6.475775212425729e-06
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat chic.",
+    "output": "The current behavior 'purchase and consume meat chic' generates approximately 9.99 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0063417548885264415
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase wheat.",
+    "output": "The current behavior 'purchase wheat' generates approximately 0.92 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0005806621732547152
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink milk skim cow.",
+    "output": "The current behavior 'buy and drink milk skim cow' generates approximately 10.57 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.006710549873632966
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink forgrass cowmilk.",
+    "output": "The current behavior 'buy and drink forgrass cowmilk' generates approximately 0.05 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 2.8674570397790724e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fore.",
+    "output": "The current behavior 'purchase fore' generates approximately 0.13 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 7.985369747837452e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase garm.",
+    "output": "The current behavior 'purchase garm' generates approximately 30.01 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.01904244673924527
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase np fert.",
+    "output": "The current behavior 'purchase np fert' generates approximately 0.71 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00044799404506246093
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase taro.",
+    "output": "The current behavior 'purchase taro' generates approximately 3.04 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001927289201511117
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fruprep.",
+    "output": "The current behavior 'purchase fruprep' generates approximately 2.64 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0016769204507360203
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat nes.",
+    "output": "The current behavior 'purchase and consume meat nes' generates approximately 12.50 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.00793462654959057
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase peanr.",
+    "output": "The current behavior 'purchase peanr' generates approximately 11.44 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.007259154768938634
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase gooss.",
+    "output": "The current behavior 'purchase gooss' generates approximately 3.61 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0022903529989297456
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase rasps.",
+    "output": "The current behavior 'purchase rasps' generates approximately 1.82 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0011556483237191422
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase yams.",
+    "output": "The current behavior 'purchase yams' generates approximately 1.49 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.000942409072433947
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase feed ener.",
+    "output": "The current behavior 'purchase feed ener' generates approximately 1.87 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0011837628282720981
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase grapf.",
+    "output": "The current behavior 'purchase grapf' generates approximately 0.40 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0002550931955174043
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase grou prep.",
+    "output": "The current behavior 'purchase grou prep' generates approximately 7.97 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.00505864372769879
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cokc.",
+    "output": "The current behavior 'purchase cokc' generates approximately 0.07 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 4.2916750773308885e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase coil beans.",
+    "output": "The current behavior 'purchase coil beans' generates approximately 1.84 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0011694979551715805
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase mush can.",
+    "output": "The current behavior 'purchase mush can' generates approximately 4.72 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0029957734622154415
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase otbc.",
+    "output": "The current behavior 'purchase otbc' generates approximately 0.07 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 4.489618945430754e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase patf.",
+    "output": "The current behavior 'purchase patf' generates approximately 0.53 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.00033873056786188775
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase coco pow.",
+    "output": "The current behavior 'purchase coco pow' generates approximately 4.55 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0028895954319563943
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice grapes.",
+    "output": "The current behavior 'purchase juice grapes' generates approximately 7.47 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004742661051637892
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pork saus.",
+    "output": "The current behavior 'purchase pork saus' generates approximately 12.38 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.007858743794756942
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase fat live.",
+    "output": "The current behavior 'purchase fat live' generates approximately 7.73 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.00490733985437206
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase blues.",
+    "output": "The current behavior 'purchase blues' generates approximately 3.86 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0024523110007951864
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase coil beans.",
+    "output": "The current behavior 'purchase coil beans' generates approximately 1.72 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001093661128293842
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase hempd.",
+    "output": "The current behavior 'purchase hempd' generates approximately 4.69 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0029781531891106697
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pigs.",
+    "output": "The current behavior 'purchase pigs' generates approximately 6.44 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004086376078804307
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase melonse.",
+    "output": "The current behavior 'purchase melonse' generates approximately 9.52 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.006043209710329336
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase char.",
+    "output": "The current behavior 'purchase char' generates approximately 2.36 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0014950266747709574
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase tomad.",
+    "output": "The current behavior 'purchase tomad' generates approximately 3.75 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002377247987463426
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink bufmilk.",
+    "output": "The current behavior 'buy and drink bufmilk' generates approximately 6.23 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0039528093419913014
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase lemos.",
+    "output": "The current behavior 'purchase lemos' generates approximately 0.83 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0005272599977269664
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase artis.",
+    "output": "The current behavior 'purchase artis' generates approximately 1.62 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0010296949610510157
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase mapl ups.",
+    "output": "The current behavior 'purchase mapl ups' generates approximately 1.58 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0010042839699651166
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase beesx.",
+    "output": "The current behavior 'purchase beesx' generates approximately 6.04 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0038303649604665407
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase and consume meat goos.",
+    "output": "The current behavior 'purchase and consume meat goos' generates approximately 0.99 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0006272735160511193
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase clovs.",
+    "output": "The current behavior 'purchase clovs' generates approximately 14.24 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.009038316257344314
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice mang.",
+    "output": "The current behavior 'purchase juice mang' generates approximately 15.15 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.009613495896922317
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase alum 01 res.",
+    "output": "The current behavior 'purchase alum 01 res' generates approximately 2.18 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0013815595839286462
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase np fert.",
+    "output": "The current behavior 'purchase np fert' generates approximately 0.40 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0002520341688474851
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil sesa.",
+    "output": "The current behavior 'purchase oil sesa' generates approximately 10.09 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.006404033373189185
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase wafes.",
+    "output": "The current behavior 'purchase wafes' generates approximately 3.37 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002137374740287123
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase melon.",
+    "output": "The current behavior 'purchase melon' generates approximately 0.54 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 0.0003437647342867364
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil pal ker.",
+    "output": "The current behavior 'purchase oil pal ker' generates approximately 3.26 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002067726180172574
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase frudry.",
+    "output": "The current behavior 'purchase frudry' generates approximately 3.35 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.00212502183873357
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase germt.",
+    "output": "The current behavior 'purchase germt' generates approximately 0.00 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 2.6248031538865387e-06
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase sheet paplal.",
+    "output": "The current behavior 'purchase sheet paplal' generates approximately 8.32 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.005280816373648619
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase starch maiz.",
+    "output": "The current behavior 'purchase starch maiz' generates approximately 1.59 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0010065815265734475
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy flour cass for baking.",
+    "output": "The current behavior 'buy flour cass for baking' generates approximately 3.24 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0020556908688897303
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase onmm.",
+    "output": "The current behavior 'purchase onmm' generates approximately 1.36 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0008635009789660134
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase voil nes.",
+    "output": "The current behavior 'purchase voil nes' generates approximately 6.09 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0038614605176206396
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase jute.",
+    "output": "The current behavior 'purchase jute' generates approximately 1.13 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0007194500891684269
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase vania.",
+    "output": "The current behavior 'purchase vania' generates approximately 55.42 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.03516915690141061
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice oran.",
+    "output": "The current behavior 'purchase juice oran' generates approximately 3.07 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0019478946918651205
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase chick.",
+    "output": "The current behavior 'purchase chick' generates approximately 3.27 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0020751717123617575
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase potas.",
+    "output": "The current behavior 'purchase potas' generates approximately 3.08 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0019553927987068067
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil palm.",
+    "output": "The current behavior 'purchase oil palm' generates approximately 3.35 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.002124575298131843
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase nuts.",
+    "output": "The current behavior 'purchase nuts' generates approximately 7.89 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.005008180352517387
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cabbs.",
+    "output": "The current behavior 'purchase cabbs' generates approximately 0.16 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 9.981368597204756e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice frui.",
+    "output": "The current behavior 'purchase juice frui' generates approximately 4.05 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0025709398093259474
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase ofma.",
+    "output": "The current behavior 'purchase ofma' generates approximately 12.79 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.008114573050449025
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase lard.",
+    "output": "The current behavior 'purchase lard' generates approximately 12.55 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.00796369011714461
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase honel.",
+    "output": "The current behavior 'purchase honel' generates approximately 3.30 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0020961189777454477
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase coff sub.",
+    "output": "The current behavior 'purchase coff sub' generates approximately 6.99 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0044354484832031995
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink shemilk.",
+    "output": "The current behavior 'buy and drink shemilk' generates approximately 1.44 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0009141204557273871
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase pork.",
+    "output": "The current behavior 'purchase pork' generates approximately 24.64 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.0156330266697498
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase char.",
+    "output": "The current behavior 'purchase char' generates approximately 2.02 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0012801802163143355
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil sesa.",
+    "output": "The current behavior 'purchase oil sesa' generates approximately 12.63 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.008012482919273697
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase oil maiz.",
+    "output": "The current behavior 'purchase oil maiz' generates approximately 2.92 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0018519552502422089
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase figsd.",
+    "output": "The current behavior 'purchase figsd' generates approximately 2.48 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0015756918970936883
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase whol ted.",
+    "output": "The current behavior 'purchase whol ted' generates approximately 3.27 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0020763219629326072
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase forgrass rabbits.",
+    "output": "The current behavior 'purchase forgrass rabbits' generates approximately 0.03 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 2.1045514095009817e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase kfert.",
+    "output": "The current behavior 'purchase kfert' generates approximately 2.57 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0016285179511025395
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase onfo.",
+    "output": "The current behavior 'purchase onfo' generates approximately 0.05 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 2.871863483420968e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase anth.",
+    "output": "The current behavior 'purchase anth' generates approximately 0.03 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 2.21803535387986e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase alc food.",
+    "output": "The current behavior 'purchase alc food' generates approximately 5.33 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0033813082421890847
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase cattle.",
+    "output": "The current behavior 'purchase cattle' generates approximately 41.82 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.02654144762930424
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase sheet paplal.",
+    "output": "The current behavior 'purchase sheet paplal' generates approximately 7.60 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004824143968992444
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink milk skim dried.",
+    "output": "The current behavior 'buy and drink milk skim dried' generates approximately 11.41 kg CO₂e. This behavior has a high carbon footprint. It is strongly recommended to switch to a greener option (e.g., public transport, energy-efficient products).",
+    "energy_label": 0.0072410004974953705
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice oran.",
+    "output": "The current behavior 'purchase juice oran' generates approximately 1.85 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001174779698401216
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase jute.",
+    "output": "The current behavior 'purchase jute' generates approximately 2.16 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.001373586691657617
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase niko.",
+    "output": "The current behavior 'purchase niko' generates approximately 0.12 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 7.744320528241879e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase juice appl con.",
+    "output": "The current behavior 'purchase juice appl con' generates approximately 3.56 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0022582483610224836
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase coke.",
+    "output": "The current behavior 'purchase coke' generates approximately 2.38 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.0015126617917481245
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: buy and drink forgrass cowmilk.",
+    "output": "The current behavior 'buy and drink forgrass cowmilk' generates approximately 0.03 kg CO₂e. This behavior has a low carbon footprint. It is recommended to continue this practice.",
+    "energy_label": 1.8695527582794024e-05
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase lztp.",
+    "output": "The current behavior 'purchase lztp' generates approximately 6.67 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004230914730957408
+  },
+  {
+    "instruction": "Suggest a more environmentally friendly alternative for the following behavior and explain why.",
+    "input": "The user currently practices: purchase grou shld.",
+    "output": "The current behavior 'purchase grou shld' generates approximately 6.36 kg CO₂e. This behavior has a moderate carbon footprint. Consider looking for low-carbon alternatives or reducing its frequency.",
+    "energy_label": 0.004033969094635169
+  }
+]
